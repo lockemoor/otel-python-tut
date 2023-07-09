@@ -1,5 +1,5 @@
 
-# Tracing and Opentelemetry basics
+# Distributed Tracing and Opentelemetry Python extensions?????
 
 
 
@@ -15,3 +15,4 @@ I believe that two of the most important concepts for understanding how distribu
 
 ### Context Propagation
 
+At it's essence context propagation is simply a way to pass (propagate) an object with the relevant information between different components. Now where it gets complicated is propagating the context along the path of the request and connecting it between
